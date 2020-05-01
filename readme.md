@@ -10,7 +10,7 @@
     Just run the following command in your terminal \
     ```python splitter.py``` \
     and complete all the fields
-- #### Package that you need installed
+- #### Packages you must install
 - textract
 - csv
 - smtplib
